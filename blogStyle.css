@@ -1,0 +1,23 @@
+body {
+    background-color: slategray;
+  }
+  
+  h2 {
+    color: black;
+    text-align: center;
+  }
+
+  p {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+  }
+
+  a{
+      font-weight: bold;
+      font-size: 30px;
+  }
+    img{
+        border : 15px solid violet; 
+        width :"500";
+        height : "500";
+    }
