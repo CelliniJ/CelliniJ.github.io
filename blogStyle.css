@@ -14,6 +14,16 @@ body {
     font-size: 35px;
   }
 
+  .sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+
+  .sticky + .content {
+    padding-top: 102px;
+  }
+
   p {
     font-family: 'Courier New', Courier, monospace;
     font-size: 28px;
